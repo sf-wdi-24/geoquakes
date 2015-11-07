@@ -20,9 +20,9 @@ Now, take a moment to familiarize yourself with the layout in `index.html`. Your
 
 ### Part 2. Add Google Maps
 
-Your next goal is to integrate Google Maps:
+Your next goal is to integrate Google Maps using the <a href="https://developers.google.com/maps/documentation/javascript/tutorial" target="_blank"> Google Maps Javascript API</a>:
   
-  * Follow the tutorial at <a href="https://developers.google.com/maps/documentation/javascript/tutorial" target="_blank">Google Maps Javascript API</a>.
+    * Follow the tutorial in the link above.
     * Note that you will need to sign up for an API key (see `index.html#L40`).
     * Center your map on San Francisco: `{ lat: 37.78, lng: -122.44 }`
 
